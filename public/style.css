@@ -20,3 +20,10 @@ canvas {
     flex-direction: row;
   }
 }
+
+#player {
+  display: none;
+}
+#opponent {
+  display: none;
+}
